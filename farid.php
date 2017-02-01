@@ -1,4 +1,4 @@
 <?php
   echo "INI COBA huhuhu";
-  echo "Hai";
+  echo "Hai Gan";
 ?>
